@@ -332,7 +332,7 @@ export default {
     link_1_2:
       'http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html',
     link_1_3:
-      'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1276081',
+      'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
   }),
   mounted() {
     this.$nextTick(() => {

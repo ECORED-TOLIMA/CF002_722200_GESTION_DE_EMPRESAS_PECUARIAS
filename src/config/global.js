@@ -269,9 +269,9 @@ export default {
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2013, junio 27). Decreto 1377 de 2013. SUIN – JURISCOL.',
+        'Presidencia de la República de Colombia. (2013, junio 27). Decreto 1377 de 2013. Función Pública.',
       link:
-        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1276081',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
     },
     {
       referencia:
